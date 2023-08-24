@@ -17,4 +17,12 @@ Build SVM using Sklearn and Snap ML
 | Snap_ML Dicision Tree | 0.966098 | 1.091387 | 0.965130 |
 | Scikit_Learn SVM | 0.984496 |  0.233667 | 0.965743  |
 | Snap_ML SVM | 0.984524 | 0.228495 | 0.965130 |
+
+## Syndey Rain Prediction
+Data set was taken from  NYC TLC website. The data set was too large it was reduced to 500000 rows and 597 columns
+
+algorithms: Linear Regression, KNN, Decision Trees, Logistic Regression, SVM 
+
+metric: Accuracy Score, Jaccard Index, F1-Score, LogLoss, Mean Absolute Error, Mean Squared Error, R2-Score
+
 ##
