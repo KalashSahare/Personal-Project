@@ -1,5 +1,5 @@
 # Personal-Project
-Project done in the year 2023
+Project done in the period 2019 to 2023
 ## Credit Card Fraud Detection 
 Data set taken from kaggle  https://www.kaggle.com/mlg-ulb/creditcardfraud .  
 
@@ -74,4 +74,7 @@ Model used: Regression tress from Sklearn and Snap ML
 [Snap ML] MSE score : 1.761
 
 [Snap ML] Mean Absolute Error score : 0.733
+## Vibration Analysis of wing
+The link for the workbench files https://drive.google.com/drive/folders/1E5jwpiQeO-BtytcThAzSciiWuDHirnDm?usp=drive_link
+
 ##
